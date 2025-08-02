@@ -68,7 +68,12 @@ Sin embargo, estoy disponible para explicar el proceso técnico, los módulos qu
 ---
 
 📸 Capturas representativas del sistema
-> Estas imágenes fueron tomadas de los módulos que desarrollé directamente. No contienen información sensible ni datos reales.
+> 📷 Imágenes de referencia
+
+A continuación se incluyen algunas capturas tomadas durante el proceso de desarrollo, usando datos de prueba en un entorno interno. 
+Actualmente no tengo acceso al sistema productivo, ya que el proyecto pertenece a BEXCON Ltda. y está en uso exclusivo por la empresa PRODUMAQ.
+
+Las imágenes tienen como único propósito ilustrar visualmente parte de la interfaz y ERP desarrollado.
 
 ### 🔐 Login del sistema
 ![Login](SSERP/Login.png)
