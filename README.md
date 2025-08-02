@@ -65,6 +65,21 @@ Sin embargo, estoy disponible para explicar el proceso técnico, los módulos qu
 
 ---
 
+📸 Capturas representativas del sistema
+> Estas imágenes fueron tomadas de los módulos que desarrollé directamente. No contienen información sensible ni datos reales.
+
+### 🔐 Login del sistema
+![Login](SSERP/login.png)
+
+### 📂 Módulo de gestión de vendedores
+![Vendedores](images/vendedores.png)
+
+### 📦 Módulo de cotizaciones
+![Cotizaciones](images/cotizaciones.png)
+
+### 🔁 Flujo del sistema (diagrama)
+![Flujo del sistema](images/flujo-sistema.png)
+
 ## 📎 Notas finales
 
 Este proyecto fue una experiencia profesional valiosa donde apliqué mis conocimientos técnicos en un entorno real, colaborativo y exigente.  
