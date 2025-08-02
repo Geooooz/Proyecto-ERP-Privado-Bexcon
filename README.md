@@ -73,14 +73,19 @@ Sin embargo, estoy disponible para explicar el proceso técnico, los módulos qu
 ### 🔐 Login del sistema
 ![Login](SSERP/Login.png)
 
-### 📂 Módulo de gestión de vendedores
-![Vendedores](images/vendedores.png)
+### 📂 Modulo de creacion de bancos
+![Banco](SSERP/BankList.png)
+![Banco](SSERP/CreateBank.png)
 
-### 📦 Módulo de cotizaciones
-![Cotizaciones](images/cotizaciones.png)
+### 📦 Módulo de Clientes
+![Cliente](SSERP/ListCliente.png)
+![Cliente](SSERP/CreateCliente.png)
+![Cliente](SSERP/CreateCliente2.png)
 
-### 🔁 Flujo del sistema (diagrama)
-![Flujo del sistema](images/flujo-sistema.png)
+### 📦 Módulo de Cotizaciones
+![Cotizacion](SSERP/CreateCotizacion.png)
+![Cotizacion](SSERP/CreateCotizacion2.png)
+
 
 ## 📎 Notas finales
 
