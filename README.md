@@ -69,7 +69,7 @@ Sin embargo, estoy disponible para explicar el proceso técnico, los módulos qu
 > Estas imágenes fueron tomadas de los módulos que desarrollé directamente. No contienen información sensible ni datos reales.
 
 ### 🔐 Login del sistema
-![Login](SSERP/login.png)
+![Login](SSERP/Login.png)
 
 ### 📂 Módulo de gestión de vendedores
 ![Vendedores](images/vendedores.png)
