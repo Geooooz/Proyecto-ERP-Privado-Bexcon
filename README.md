@@ -31,6 +31,8 @@ El desarrollo fue realizado por BEXCON Ltda., empresa donde participé como desa
 Fui responsable de desarrollar funcionalidades completas, tanto en frontend como backend, y de definir partes de la base de datos.
 
 ### Módulos específicos en los que trabajé:
+- Gestion de bancos
+- Gestion de clientes
 - Gestión de vendedores
 - Gestión de despachadores
 - Módulo de ventas y cotizaciones
